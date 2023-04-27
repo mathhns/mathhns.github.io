@@ -1,20 +1,22 @@
-
-
-body{
+body {
     font-family: Helvetica, Arial, sans-serif;
     background-color: hsl(220, 15%, 55%);
 }
+
 em {
     color: rgb(0, 60, 75);
-  }
-img{
+}
+
+img {
     border-radius: 25px;
     box-shadow: 8px 5px 5px hsl(219, 18%, 30%);
 }
-#title{ 
+
+#title {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#localidade{
+
+#localidade {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
 }
