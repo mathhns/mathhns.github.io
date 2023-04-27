@@ -3,17 +3,15 @@ body {
     background-color: hsl(220, 15%, 55%);
 }
 
-em {
-    color: rgb(0, 60, 75);
-}
-
-img {
-    border-radius: 25px;
-    box-shadow: 8px 5px 5px hsl(219, 18%, 30%);
-}
 
 #title {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#title:hover{
+    font-size: 50px;
+    border: 2px solid black;
+    width: 33%;
+    text-align: center;
 }
 
 #localidade {
@@ -22,7 +20,13 @@ img {
 }
 
 #Matheus{
+    border-radius: 25px;
+    box-shadow: 8px 5px 5px hsl(219, 18%, 30%);
     margin-top: 25px;
     margin-bottom: 25px;
     display: inline;
+}
+
+.Link:hover{
+    background-color: darkcyan
 }
