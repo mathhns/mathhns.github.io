@@ -1,6 +1,7 @@
 body {
     font-family: Helvetica, Arial, sans-serif;
     background-color: hsl(220, 15%, 55%);
+    font-size: 18px;
 }
 
 
@@ -29,4 +30,9 @@ body {
 
 .Link:hover{
     background-color: darkcyan
+}
+section ul li:hover{
+    font-size: 20px;
+    border: 2px solid black;
+    width: 12%;
 }
