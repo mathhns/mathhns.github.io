@@ -1,7 +1,7 @@
 body {
     font-family: Helvetica, Arial, sans-serif;
     background-color: hsl(220, 15%, 55%);
-    font-size: 18px;
+    font-size: 16px;
 }
 
 
@@ -17,7 +17,7 @@ body {
 
 #localidade {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 #Matheus{
@@ -32,7 +32,13 @@ body {
     background-color: darkcyan
 }
 section ul li:hover{
-    font-size: 20px;
+    font-size: 18px;
     border: 2px solid black;
     width: 12%;
+}
+
+#paragrafo{
+    padding: auto;
+    width: 670px;
+    display: block;
 }
